@@ -10,7 +10,7 @@ An end-to-end IT Service Desk analytics project designed to simulate real enterp
 
 - Database: MySQL
 
-- Backend (Optional): Python, FastAPI
+- Backend: Python, FastAPI
 
 - Analytics & Visualization: Power BI
 
